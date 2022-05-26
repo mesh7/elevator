@@ -1,0 +1,64 @@
+{
+    "floors": [
+        {
+            "floor": "1",
+            "funFact": "Elevators are statistically the safest way to travel."
+        },
+        {
+            "floor": "2",
+            "funFact": "The inventor of the modern day elevator Elisha Graves Otis formed a company that is supply’s the majority of today’s elevators."
+        },
+        {
+            "floor": "3",
+            "funFact": "The close button in an elevator is actually a “placebo” button, made to give passengers the illusion of control in their elevator journey. Since the 1990’s elevator manufacturers have removed the close function on most elevators since they close automatically."
+        },
+        {
+            "floor": "4",
+            "funFact": "The first elevator that had manual user control was installed in New York Marriott."
+        },
+        {
+            "floor": "5",
+            "funFact": "The Maximum altitude that one cable hoisted elevator can achieve is 1700 feet."
+        },
+        {
+            "floor": "6",
+            "funFact": "Elevator music first appeared in 1920s to calm the fearful passengers who used the elevators for the first time."
+        },
+        {
+            "floor": "7",
+            "funFact": "24 elevators at the ancient Roman Colosseum were manually operated by the force of over 200 slaves."
+        },
+        {
+            "floor": "8",
+            "funFact": "In every three days elevators carry equivalent of entire Earth’s population."
+        },
+        {
+            "floor": "9",
+            "funFact": "The first written record of an elevator comes from 3rd century BC Greece. That simple elevator was invented by mathematician Archimedes."
+        },
+        {
+            "floor": "10",
+            "funFact": "America currently has over 700.000 elevators"
+        },
+        {
+            "floor": "11",
+            "funFact": "Every elevator is supported by multiple cables and each of those cables can safely carry entire elevator and its passengers."
+        },
+        {
+            "floor": "12",
+            "funFact": "The first public building elevator was installed in nine story high building in New York City."
+        },
+        {
+            "floor": "13",
+            "funFact": "Since the number is considered extremely unlucky in a lot of countries, a lot of buildings opt to remove the 13th floor from their floor plans. Otis Elevators Company estimates that approximately 85% of buildings with their elevators do not have a 13 button."
+        },
+        {
+            "floor": "14",
+            "funFact": "Elevators are twenty times safer than escalators."
+        },
+        {
+            "floor": "close",
+            "funFact": "The close button in an elevator is actually a “placebo” button, made to give passengers the illusion of control in their elevator journey. Since the 1990’s elevator manufacturers have removed the close function on most elevators since they close automatically."
+        }
+    ]
+}
